@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Reacana](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Reakana](https://github.com/facebook/create-react-app).
 
 ## Why this name?
-Reacana comes from a fusion of **Reac**t + Katak**ana**/Hirag**ana** suffix.
+Reacana comes from a fusion of **Rea**ct + Katak**ana**/Hirag**ana** suffix.
 
 ## Available Scripts
 
