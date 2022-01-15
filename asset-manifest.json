@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reacana/static/css/main.09c8ad85.css",
+    "main.js": "/Reacana/static/js/main.6cc1db86.js",
+    "static/js/787.d35fcece.chunk.js": "/Reacana/static/js/787.d35fcece.chunk.js",
+    "index.html": "/Reacana/index.html",
+    "main.09c8ad85.css.map": "/Reacana/static/css/main.09c8ad85.css.map",
+    "main.6cc1db86.js.map": "/Reacana/static/js/main.6cc1db86.js.map",
+    "787.d35fcece.chunk.js.map": "/Reacana/static/js/787.d35fcece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c8ad85.css",
+    "static/js/main.6cc1db86.js"
+  ]
+}
